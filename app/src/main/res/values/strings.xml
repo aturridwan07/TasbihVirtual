@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"><b>Tasbih Virtual</b></string>
+    <string name="btnresetID">Atur Ulang</string>
+    <string name="btnresetEN">Reset</string>
+</resources>
